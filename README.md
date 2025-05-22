@@ -1,2 +1,2 @@
 # Game
-Artık deneme bilmem kaç.
+Bir oyunu yapmayı deniyorum
