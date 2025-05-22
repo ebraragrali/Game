@@ -1,2 +1,2 @@
 # Game
-Bir oyunu yapmayı deniyorum
+Bir oyunu yapmayı deniyorum.
