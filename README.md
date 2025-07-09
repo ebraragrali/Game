@@ -6,4 +6,4 @@ Oyunda [kendi belirlediğin oyun türü ve mekanikler hakkında kısa açıklama
 ## 🛠️ Kullanılan Teknolojiler:
 - **Unity** - Oyun motoru  
 - **C#** - Oyun mekaniği ve scriptler  
-- **[Eklediğin diğer araçlar varsa buraya yaz]**  
+
